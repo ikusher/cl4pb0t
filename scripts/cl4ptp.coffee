@@ -26,6 +26,7 @@ random_quotes = [
   "-- Are you god? Am I dead?",
   "I'M DEAD I'M DEAD OHMYGOD I'M DEAD!",
   "O-KAY! Thanks for giving me a second chance, God. I really appreciate it.",
+  "Fart? What a STINKY thing to say!",
 
   # Character selection
 
